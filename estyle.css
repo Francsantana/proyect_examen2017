@@ -1,0 +1,23 @@
+table{
+	background-color:#f7f9f3;
+	width:1050px;
+	height:auto;
+	border:#ccc;
+	font-family:vapela Rund;
+	
+	
+}
+
+td,th{
+	border: 1px solid #400040;
+	background-color:#c0c0c0;
+}
+
+header,h2{
+  margin-left:auto;
+  color: #ff8040;
+	
+}
+
+#wrapper {
+	margin: 0px auto;
